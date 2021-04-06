@@ -1,15 +1,15 @@
-2021-04-05,New cases,New deaths,Total cases,Total deaths,Cases direction,Infection rate
-Blackburn with Darwen,18,0,17951,408,DOWN,76.2
-Blackpool,3,0,9178,436,DOWN,20.1
-Burnley,2,0,9863,274,DOWN,52.9
-Chorley,6,0,7798,223,DOWN,61.8
-Fylde,2,0,4761,259,DOWN,13.6
-Hyndburn,3,0,7776,202,DOWN,51.8
-Lancaster,6,0,9341,284,DOWN,28.8
-Pendle,4,0,9599,239,DOWN,30.4
-Preston,8,0,13708,314,DOWN,85.2
-Ribble Valley,5,0,4571,146,DOWN,46.0
-Rossendale,8,0,6068,150,DOWN,35.0
-South Ribble,10,0,8033,198,DOWN,42.4
-West Lancashire,0,0,8885,268,DOWN,43.7
-Wyre,1,0,6615,354,DOWN,14.3
+2021-04-06,New cases,New deaths,Total cases,Total deaths,Cases direction,Infection rate
+Blackburn with Darwen,10,0,17961,408,DOWN,68.8
+Blackpool,0,0,9178,436,DOWN,19.4
+Burnley,0,0,9863,274,DOWN,56.2
+Chorley,4,0,7802,223,DOWN,67.7
+Fylde,2,0,4763,259,DOWN,14.9
+Hyndburn,8,0,7784,202,DOWN,49.4
+Lancaster,3,0,9344,284,DOWN,28.1
+Pendle,1,0,9600,239,DOWN,29.3
+Preston,6,1,13714,315,DOWN,76.9
+Ribble Valley,1,0,4572,146,DOWN,39.4
+Rossendale,3,0,6071,150,DOWN,33.6
+South Ribble,5,0,8038,198,DOWN,36.1
+West Lancashire,5,0,8890,268,DOWN,35.9
+Wyre,4,0,6619,354,DOWN,13.4
